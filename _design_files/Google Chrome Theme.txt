@@ -1,0 +1,38 @@
+Chrome Theme
+Colors
+000000
+080808
+0F0F0F
+191919
+141414
+
+191919
+262626
+cccccc
+
+
+NTP Background: 191919
+Frame: 191919
+Toolbar: 262626
+Tab Background: 141414
+Frame Overlay
+NTP Attribution
+
+
+Status Bar: 191919
+Tab Text: cccccc
+Background Tab Text: 9b9b9b
+Bookmark Text: cccccc
+NTP Text: cccccc
+Buttons: cccccc
+Control Buttons: 191919
+
+
+
+Firefox Developer
+Toolbar: #39424D
+Icons: #FFFFFF
+Search: #171B1F
+Icon2: #313A42
+#1A4666
+#888E94
